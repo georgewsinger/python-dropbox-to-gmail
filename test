@@ -1,0 +1,19 @@
+This is a file that you might send through gmail.
+
+You can use HTML like the following:
+
+<img src="https://ee5817f8e2e9a2e34042-3365e7f0719651e5b8d0979bce83c558.ssl.cf5.rackcdn.com/python.png" alt="Mountain View" style="width:304px;height:228px;">
+
+Note that when this message is sent, it is wrapped in a <pre></pre>, which has the effect of preserving spacing.  This means you can send messages like the following through the program and it will show up correctly:
+
+        _ ._  _ , _ ._
+      (_ ' ( `  )_  .__)
+    ( (  (    )   `)  ) _)
+   (__ (_   (_ . _) _) ,__)
+       `~~`\ ' . /`~~`
+       ,::: ;   ; :::,
+      ':::::::::::::::'
+ _jgs______/_ __ \__________
+|                           |
+|          Simple.          |
+|___________________________|
