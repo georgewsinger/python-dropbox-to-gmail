@@ -10,7 +10,7 @@ ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
 FROM = 'First Last <your_user_name@gmail.com>'
 TO = 'First Last <your_recipient_email@gmail.com>' # this may need to be different from the actual recipient of the gmail
 SUBJECT = "SUBJECT"
-# CC = 'George Singer <gwsinger@gmail.com>'
+# CC = 'First Last <user@gmail.com>'
 
 # This is who actually receives the gmail
 RECIPIENTS = ['your_recipient@gmail.com']
