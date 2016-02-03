@@ -2,7 +2,7 @@
 
 ![Dropbox to Gmail](http://www.ysurfing.com/wp-content/uploads/2015/07/Dropbox-to-gmail.jpg)
 
-This repo contains a simple Python script which sends the contents of a Dropbox file to gmail recipient(s). 
+This repo contains a simple Python script which sends the contents of a Dropbox file to gmail recipient(s) of your choosing. 
 
 # Instructions
 
